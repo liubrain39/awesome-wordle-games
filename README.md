@@ -151,4 +151,4 @@ A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-l
 
 Seven typed-answer trivia prompts per dive, with a date-based daily selection, free practice, an optional 25-second timer, a pixel-fish descent and answer review. Free, browser-based and no account required.
 
-Independent of krillion.io, with 14 original prompts and its own accepted answers and practice scoring; questions can repeat. English, for adults.
+Independent of krillion.io, with 40 original prompts and its own accepted answers and practice scoring; questions can repeat. English, for adults.
